@@ -21,6 +21,11 @@ message: "Enter github name"
     name: "license",
     message: "What license would you like to use on your project",
     choices: ["MIT", "GNU", "Apeche" ]
+},{
+    type: "input",
+    name: "email",
+    message: "Give full email" 
+
 
 }];
 

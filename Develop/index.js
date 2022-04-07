@@ -20,7 +20,7 @@ message: "Enter github name"
     type: "list",
     name: "license",
     message: "What license would you like to use on your project",
-    choices: ["MIT", "GNU", "Apeche" ]
+    choices: ["MIT", "Apeche" ]
 },{
     type: "input",
     name: "email",

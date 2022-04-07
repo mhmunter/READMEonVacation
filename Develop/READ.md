@@ -1,6 +1,6 @@
-# read-me Gen
- **mhmunter**
- using linux it creates a read-me file.
+# generator
+ **mhmunters**
+ **[Discription-]**abrbra cadbra
  MIT
- [e-mail:](https://github.com/mhmunter)
+ [e-mail:](github.com)
 

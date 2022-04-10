@@ -5,9 +5,9 @@
 
 [Installation](#installation)
 
-[Discription:](#Discription)
+[Discription](#Discription)
 
-[Questions:](#Questions)
+[Questions](#Questions)
 
 [Link](#Link)
 

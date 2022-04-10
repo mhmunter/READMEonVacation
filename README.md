@@ -8,5 +8,5 @@
 <li> click on download link</li>
 <li>then open zip file</li>
 <li> click on view file raw to watch vedio</li>
-<li>![watch install video](https://github.com/mhmunter/potential-enigma/blob/main/Untitled_%20Apr%208%2C%202022%2010_51%20AM.webm)</li>
+[watch install video](https://github.com/mhmunter/potential-enigma/blob/main/Untitled_%20Apr%208%2C%202022%2010_51%20AM.webm)
 </ol>

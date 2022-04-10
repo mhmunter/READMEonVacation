@@ -1,15 +1,17 @@
 # **README Generator**
 
 ## Table of Contents
+[Discription](#Discription)
+
 [Usage](#usage)
 
 [Installation](#installation)
 
-[Discription](#Discription)
+[Link](#Link)
 
 [Questions](#Questions)
 
-[Link](#Link)
+
 
 ## Discription: 
 - A program that will use command line to prompt user to input information, that will then be used to create a READ.md file. 

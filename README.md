@@ -19,7 +19,7 @@
 <li> click on Untitled_ Apr 8, 2022 10_51 AM.webm</li>
 <li>then open zip file</li>
 <li> click on view file raw to watch vedio</li>
-<li>or click on install link</li>
+<li>or click on install link, and follow steps 2 and three</li>
  </ol>
  
  ## **Link**

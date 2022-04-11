@@ -18,10 +18,11 @@
 
 ## **Usage** 
 <ol>
-<li> click on Untitled_ Apr 8, 2022 10_51 AM.webm</li>
+ <li> click on install link</li>
+<li> or click on Untitled_ Apr 8, 2022 10_51 AM.webm</li>
 <li>then open zip file, or view file</li>
 <li> click on view file raw to watch vedio</li>
-<li>or click on install link, and follow steps 2 and 3</li>
+
  </ol>
  
  ## **Link**

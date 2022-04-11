@@ -25,7 +25,7 @@
  </ol>
  
  ## **Link**
-[watch install video](https://github.com/mhmunter/potential-enigma/blob/main/Untitled_%20Apr%208%2C%202022%2010_51%20AM.webm)
+[watch install video](https://drive.google.com/file/d/1WH2JlZjlkUek8CbDkzELl6RvhbmnDpfg/view)
 
 ## **Questions:**
 mhmunter@yahoo.com
